@@ -19,6 +19,8 @@ return(
   <Route path ="login" element ={<Login />} />
   <Route path ="signup" element ={<Signup />} />
   <Route path= "profile" element ={<ProfilePage />} />
+  <Route path= "navigation" element ={<Navigation />} />
+  <Route path= "footer" element ={<Footer />} />
   </Route>
 
 
